@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Favorite things
+* Tea :heart:
+* Books :+1::+1:
+* Pens
+* Anime
